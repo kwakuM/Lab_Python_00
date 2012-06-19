@@ -1,0 +1,9 @@
+1. a.5    b.5.5
+
+2.7625597484987
+
+3.334206837441656786944
+
+4.The average time per meter is 5.69620253165
+
+5.The shortest distance between I and my friend is 6.53030012814
